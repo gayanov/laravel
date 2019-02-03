@@ -17,7 +17,7 @@
 
         <div class="content">
             <div class="title m-b-md">
-                Laravel work!
+                Laravel works!
             </div>
 
             <div class="links">

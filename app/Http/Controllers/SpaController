@@ -1,0 +1,15 @@
+<?php
+/**
+ * Controller for SPA.
+ * The controller is designed to further add
+ */
+
+namespace App\Http\Controllers;
+
+class SpaController extends Controller
+{
+    public function render()
+    {
+        return view('spa');
+    }
+}
